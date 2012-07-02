@@ -1,0 +1,8 @@
+This is a converter for Illumina Scarf ASCII format to Sanger FASTQ format
+
+Illumina produces SCARF files with quality scores in ASCII or numeric format. 
+This is a converter for the ASCII version only.
+eg.
+HWUSI-EAS376:7:1:8:1032#0/1:TAATAGTTTTGTTTCAGGTATAAGNATCTCGTATGC:abba[a_ab_Zaaaaa\`Zaba`XD^aaa``^a`aa
+HWUSI-EAS376:7:1:8:1372#0/1:TGCAAAGATGATGGATTTGGAAAANTTCTCGTTTGC:ab`_Z`aa_Y_aa]]aaaaa_aa\D\aaaaa]`aaa
+HWUSI-EAS376:7:1:8:34#0/1:TAAGAAACTGAGCTAAAACAATGGNTCTCGTATGCC:aa_\X]^`a^[``aa``_]]]_[MDU_a]]\aYQ[`
